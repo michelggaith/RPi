@@ -9,3 +9,4 @@ Correr REMOTOPC.C en la PC en simultaneo con el programa principal en la raspber
   La velocidad es por CADA MODO, yo plantie una velocidad general que se guarda para cada secuencia de luces (un arreglo y ya queda guardado para cada una)
   No hace falta el archivo makefile ya que añadi todos los archivos y funciones a donde corresponda.
   Ejecutar los programas tal como se plantea en el tutorial planteado por la catedra
+	aaa
